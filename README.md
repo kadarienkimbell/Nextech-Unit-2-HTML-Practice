@@ -1,4 +1,4 @@
-# Lesson 2.1: HTML Tags
+# Unit 2: HTML
 
 ### 🎯 Objectives
 - Understand the purpose and structure of HTML.
@@ -6,17 +6,11 @@
 
 ## Table of Contents
 
-1. [Getting Started](#getting-started)
-2. [Do Now](#do-now)
-3. [HTML Tags Introduction](#html-tags-introduction)
-4. [Code Along](#code-along)
-5. [Code Solo](#code-solo)
-6. [Exit Ticket & Closing](#exit-ticket-closing)
+1. [Do Now](#do-now)
+2. [HTML Tags Introduction](#html-tags-introduction)
+3. [Code Along](#code-along)
+4. [Code Solo](#code-solo)
 
-## Getting Started
-
-- Login to Google Classroom for today’s lesson.
-- Fork today’s exercises from GitHub.
 
 ## Do Now
 
@@ -53,14 +47,6 @@ Open the `code-along.html` file and complete the tasks. As I write code, make su
 ## Code Solo
 
 Next, open the `code-solo.html` file and complete the tasks. Again, as I write code, you should also be writing along with me.
-
-## Exit Ticket & Closing
-
-For your Exit Ticket today, please upload a link to your updated project and post it to Google Classroom.
-
----
-
-Thank you for your dedication and hard work in today's session! Keep practicing and don't hesitate to ask questions. We're excited to see your progress in Code Nation!
 
 
 
